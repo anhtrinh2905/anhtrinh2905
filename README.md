@@ -14,7 +14,7 @@
 - 🌱 I’m deeply focused on **Time-Series Anomaly Detection, RAG architectures, and LLM Applications**.
 - 👨‍💻 All of my projects and live demos are available at [anhtrinh2905.github.io](https://anhtrinh2905.github.io/).
 - 💬 Ask me about **Cybersecurity, Machine Learning, and Generative AI**.
-- 📄 Explore my professional journey via [My Resume](https://drive.google.com/file/d/1lFuixVHj3OiTvWBCo4N_FAk7oGfybmbX/view?usp=drive_link).
+- 📄 Explore my professional journey via [My Resume](https://drive.google.com/file/d/1GmT_Lodv22fsG2mc3oLRS4DcVVrsS9CY/view?usp=drive_link).
 
 ### Connect with me:
 - 📬 Email: **lanh29052004@gmail.com**
